@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋 , I am Intakhab
 
-<!--
-**intakhab1/intakhab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Here are some ideas to get you started:
+📍 Delhi, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an engineering undergrad at DITE, Delhi, driven to experience more and create a positive impact on lives. I have interest in Mathematics, Science ,problem solving and logic, in general and aim to create smart solutions using technology.
+I take particular interest in science , development and worked on multiple interesting projects. I believe learning new things is the most important skill for an engineer and thus strive to continually learn new technologies.
+
+I am currently working with technologies based on Javascript. Technologies such as ReactJS, NodeJS.
+I usually work with react projects and make complex and beautiful components.
+I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
+My Tech Stack: ReactJS, JavaScript, TailwindCSS, MongoDB, NodeJS, Figma
+
+Languages I know: JavaScript, JavaScript, Python, C/C++, Java, SQL, HTML, CSS/SCSS
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
