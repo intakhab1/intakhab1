@@ -19,7 +19,7 @@ I have internship experience at **NeuroNexus Innovation** and **Maruti Suzuki In
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **intakhab087@gmail.com**
+- 📫 Reach me at **intakhab087@gmail.com**
 
 I usually work with react projects and make complex and beautiful components.
 I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
