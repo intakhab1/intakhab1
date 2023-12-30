@@ -9,8 +9,6 @@ I am a 4th year engineering undergrad at DSEU Okhla Campus-II (Formerly DITE), D
 
 I have internship experience at NeuroNexus Innovation and Maruti Suzuki India Limited in 2023 and 2022 respectively where i showcase my ability to innovate and deliver tangible results.
 
-Coming to my technical skills I have handson on, ReactJS, NodeJS, HTML, Tailwind CSS, JavaScript, C++, OPPS, Agile, MVC, DBMS, OS, MongoDB, Git/Github and DSA using my skills, created many Full stack web applications.
-
 - 🔭 I’m currently working on [Skill Nation](https://skillnation.vercel.app/)
 
 - 🌱 I’m currently learning **Technologies such as ReactJS, NodeJS, Rust**
@@ -26,7 +24,7 @@ Coming to my technical skills I have handson on, ReactJS, NodeJS, HTML, Tailwind
 I usually work with react projects and make complex and beautiful components.
 I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
 
-My Tech Stack: ReactJS, JavaScript, TailwindCSS, MongoDB, ExpressJS, NodeJS.
+My Tech Stack **ReactJS, JavaScript, TailwindCSS, MongoDB, ExpressJS, NodeJS, C++, OPPS, Agile, MVC, DBMS, OS, MongoDB, Git/Github**
 
 Languages : JavaScript, C++
 
