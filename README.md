@@ -27,7 +27,9 @@ My Tech Stack **ReactJS, JavaScript, TailwindCSS, MongoDB, ExpressJS, NodeJS, C+
 Languages : JavaScript, C++
 
 <h3 align="left">Support:</h3>
-<!-- [<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Intakhab">](https://www.buymeacoffee.com/intakhab) -->
-[![Intakhab's Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/intakhab)
+
+<a href="https://www.buymeacoffee.com/intakhab">
+  <img alt="Mockup" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />
+</a>
 
 
