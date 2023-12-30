@@ -29,7 +29,7 @@ Languages : JavaScript, C++
 <h3 align="left">Support:</h3>
 
 <a href="https://www.buymeacoffee.com/intakhab">
-  <img alt="Mockup" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />
+  <img alt="Mockup" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="left" height="50" width="210" />
 </a>
 
 
