@@ -11,7 +11,18 @@ I have internship experience at NeuroNexus Innovation and Maruti Suzuki India Li
 
 Coming to my technical skills I have handson on, ReactJS, NodeJS, HTML, Tailwind CSS, JavaScript, C++, OPPS, Agile, MVC, DBMS, OS, MongoDB, Git/Github and DSA using my skills, created many Full stack web applications.
 
-I am currently working with technologies based on Javascript. Technologies such as ReactJS, NodeJS.
+- 🔭 I’m currently working on [Skill Nation](https://skillnation.vercel.app/)
+
+- 🌱 I’m currently learning **Technologies such as ReactJS, NodeJS, Rust**
+
+- 👨‍💻 All of my projects are available at [https://intakhab1.github.io/personal-portfolio/](https://intakhab1.github.io/personal-portfolio/)
+
+- 📝 I regularly write articles on [https://medium.com/@intakhab08](https://medium.com/@intakhab08)
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **intakhab087@gmail.com**
+- 
 I usually work with react projects and make complex and beautiful components.
 I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
 
