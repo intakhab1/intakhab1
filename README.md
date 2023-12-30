@@ -7,7 +7,7 @@ Hi there 👋 , I am Intakhab
 About me -
 I am a 4th year engineering undergrad at DSEU Okhla Campus-II (Formerly DITE), Delhi, driven to experience more and create a positive impact on lives. 
 
-I have internship experience at NeuroNexus Innovation and Maruti Suzuki India Limited in 2023 and 2022 respectively where i showcase my ability to innovate and deliver tangible results.
+I have internship experience at **NeuroNexus Innovation** and **Maruti Suzuki India Limited** in 2023 and 2022 respectively where i showcase my ability to innovate and deliver tangible results.
 
 - 🔭 I’m currently working on [Skill Nation](https://skillnation.vercel.app/)
 
