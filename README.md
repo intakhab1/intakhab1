@@ -18,7 +18,7 @@ I have internship experience at **NeuroNexus Innovation** and **Maruti Suzuki In
 - 💬 Ask me about **Web Development**
 
 - 📫 Reach me at **intakhab087@gmail.com**
-- ![Visitor Count](https://profile-counter.glitch.me/{intakhab1}/count.svg)
+- Visitor's count ![Visitor Count](https://profile-counter.glitch.me/{intakhab1}/count.svg)
 
 
 I usually work with react projects and make complex and beautiful components.
