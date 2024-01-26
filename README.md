@@ -18,6 +18,8 @@ I have internship experience at **NeuroNexus Innovation** and **Maruti Suzuki In
 - 💬 Ask me about **Web Development**
 
 - 📫 Reach me at **intakhab087@gmail.com**
+- ![Visitor Count](https://profile-counter.glitch.me/{intakhab1}/count.svg)
+
 
 I usually work with react projects and make complex and beautiful components.
 I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
@@ -32,9 +34,6 @@ Languages : JavaScript, C++
   <img alt="Mockup" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="left" height="50" width="210" />
 </a>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/intakhab1/count.svg?"  />
-</div>
 
 
 
