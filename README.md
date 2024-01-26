@@ -32,4 +32,11 @@ Languages : JavaScript, C++
   <img alt="Mockup" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="left" height="50" width="210" />
 </a>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/intakhab1/count.svg?"  />
+</div>
+
+![Visitor Count](https://profile-counter.glitch.me/{intakhab1}/count.svg)
+
+
 
