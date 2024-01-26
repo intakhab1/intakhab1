@@ -36,7 +36,5 @@ Languages : JavaScript, C++
   <img src="https://profile-counter.glitch.me/intakhab1/count.svg?"  />
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/{intakhab1}/count.svg)
-
 
 
