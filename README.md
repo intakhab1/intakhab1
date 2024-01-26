@@ -35,7 +35,7 @@ Languages : JavaScript, C++
 
 ###
 
-<div align="center">
+<div align="center"> Visitor's count
   <img src="https://profile-counter.glitch.me/intakhab1/count.svg?"  />
 </div>
 
